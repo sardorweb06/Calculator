@@ -54,6 +54,10 @@ button {
     cursor: pointer;
 }
 
+button:hovre {
+    border-radius: 50%;
+}
+
 .equalBtn {
     background: #fb7c14;
 }
